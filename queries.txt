@@ -1,0 +1,47 @@
+NAME: VEDANT ULHAS PANDIT, USC ID: 6121502484, Email-id: vedantup@usc.edu 
+
+LIST OF QUERIES:
+
+A. NAVIGATIONAL
+1. Faculty Names:
+Ali E. Abbas Price
+Emma Aguila Price
+Juliet Ann Musso Price
+
+2. FACULTY DEPARTMENTS
+Urban Planning Price
+Real Estate Development Price
+Public Administration Price
+
+3. Price USC map
+
+4. Sol Price
+
+5. USC Price Alumni
+
+B. INFORMATIONAL
+1. USC Real Estate Development Undergraduate degree Requirements
+2. USC Real Estate Development Masters degree Requirements
+3. USC Urban Planning and Development PhD degree Requirements
+
+C. Query No 13
+price location 
+
+
+
+RQ1: Which search engine performs best when considering the first 10 results for a given query? 
+Ans:
+As seen from the graph for both Navigational and Informational Queries, Google's performance was better as compared to Bing.
+Hence, relevance of google is beter as compared to bing
+
+
+RQ2 : Is there a difference in relevance between the search engines when considering informational queries and navigational queries, respectively?
+Ans: 
+There is a considerable difference in relevance between Google and Bing while considering the informational queries and navigational queries. 
+Google showed a 89% relevance in Navigational queries whereas Bing gave a 67% relevance in results. 
+In Informational queries, Google gave 63.34% relevant results compared to the 53.34% of Bing.
+As seen, for navigational queries, difference is considerable. But for, informational, google is slightly better than bing.
+
+CONCLUSION:
+Therefore, Overall Google’s performance for both informational queries and navigational queries was better than Bing’s performance.
+Google gave more relevant search results as compared to Bing for my search queries.
